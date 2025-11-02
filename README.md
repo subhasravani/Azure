@@ -1,6 +1,9 @@
 
 <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/2cece3a0-c1a1-455f-9b4b-1e6a25738d42" />
 
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c30fe7d9-0e29-4245-9dc3-e5030cf48297" />
+
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/03c4ca58-3a25-433f-9b7a-74b95fc3c6ee" />
 
 
 # Article CMS (FlaskWebProject)
